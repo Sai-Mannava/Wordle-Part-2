@@ -4,7 +4,7 @@ Submitted by: **Sai Mannava**
 
 **Wordle** is an app that launches the random word guessing game with a settings feature now
 
-Time spent: **3** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]] https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHd5OHY5OTg5MzVrbnVtanMzNnNqOHFrb2h4ZDhueDU3OXJxYWlvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14TRq1QoVXNotX8bkV/giphy.gif
+[Guide]] https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ3c2dwdHNxZmxraHFpbnQzYjM5ejQ1eXBhczFxYWcyejZnbmtuciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OyJeTRLmG9KfaNqgUH/giphy.gif
 ## Notes
 
 - Writing code for the settings features in the functions proved difficult because it wasn't as straightforward as the algorithms used for the game.
