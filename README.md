@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]] https://shorturl.at/kvy24
+[Guide]] https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHd5OHY5OTg5MzVrbnVtanMzNnNqOHFrb2h4ZDhueDU3OXJxYWlvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14TRq1QoVXNotX8bkV/giphy.gif
 ## Notes
 
 - Writing code for the settings features in the functions proved difficult because it wasn't as straightforward as the algorithms used for the game.
