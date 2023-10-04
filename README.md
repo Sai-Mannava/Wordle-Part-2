@@ -18,15 +18,12 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [] App displays a reset button on the top left to reset the game (but make no changes to the settings)
+- [X] App displays a reset button on the top left to reset the game (but make no changes to the settings)
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
-
+- I want to add another category in settings where I can create a topic on Movies
 ## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
 [Guide]](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ3c2dwdHNxZmxraHFpbnQzYjM5ejQ1eXBhczFxYWcyejZnbmtuciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OyJeTRLmG9KfaNqgUH/giphy.gif)  .
 ## Notes
